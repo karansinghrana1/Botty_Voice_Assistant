@@ -31,7 +31,7 @@ Follow these steps to set up and run the project on your local machine:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/virtual-assistant-app.git
+    git clone https://github.com/karansinghrana1/Botty_Voice_Assistant.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -68,5 +68,5 @@ This project serves as a foundation for further enhancements and features. Poten
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the terms specified in the license.
+This project is licensed free. Feel free to use, modify, and distribute it.
 
