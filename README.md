@@ -4,6 +4,11 @@
 
 This project aims to create a sophisticated voice assistant app capable of understanding and executing various tasks through voice commands. Leveraging the power of ChatGPT, a state-of-the-art natural language processing model, and DALL-E, an AI image generation tool, the app provides an intelligent and responsive virtual assistant experience.
 
+
+https://github.com/karansinghrana1/Botty_Voice_Assistant/assets/96226118/f6a0ecfa-00f0-425f-88f4-e0e0c2b437d5
+
+
+
 ## Features
 
 - **Voice Commands:** Interact with the virtual assistant using natural language voice commands.
